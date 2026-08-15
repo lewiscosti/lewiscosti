@@ -30,4 +30,3 @@ BSc (Hons) Economics — Loughborough University
 ## Links & Contact Info
 
 www.linkedin.com/in/lewiscosti
-lewis.costi@outlook.com
