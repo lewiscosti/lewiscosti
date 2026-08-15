@@ -1,16 +1,33 @@
-## Hi there 👋
+# Lewis Costi
 
-<!--
-**lewiscosti/lewiscosti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economics graduate interested in Venture Capital, Corporate Finance and financial analysis.
 
-Here are some ideas to get you started:
+I enjoy combining financial modelling and quantitative analysis with Python
+to solve practical finance problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- VC & Corporate Finance
+- Financial Modelling & Valuation
+- Financial & Credit Analysis
+- Python for Financial Analysis
+- Econometrics & Data Analysis
+
+## Featured Projects
+
+### Automated Credit Risk Analyzer
+Credit assessment and covenant stress-testing platform combining Altman
+Z-Scores, Merton structural modelling and Monte Carlo simulation.
+
+### Local AI Financial Statement Auditor
+Local-LLM tool for extracting and classifying financial statement red flags
+with page-level source references and Excel export.
+
+## Education
+
+BSc (Hons) Economics — Loughborough University
+
+## Links & Contact Info
+
+www.linkedin.com/in/lewiscosti
+lewis.costi@outlook.com
