@@ -24,12 +24,6 @@ Python-based credit risk and debt covenant stress-testing platform combining **A
 
 The application extracts structured financial information from PDFs using a locally hosted LLM, applies quantitative credit models, stress-tests covenant headroom under adverse scenarios, and generates an automated credit memo.
 
-### Local AI Financial Statement & Disclosure Risk Auditor
-
-Local-LLM financial analysis tool for extracting and classifying **financial statement and disclosure risks** from financial PDFs.
-
-The application combines page-aware PDF extraction, structured LLM outputs and Pydantic validation to identify and classify potential red flags, with page-level source references and Excel export.
-
 ### M&A Buy-Side Evaluation - International Paper / DS Smith
 
 Independent buy-side analysis of **International Paper's acquisition of DS Smith**, combining operating modelling, valuation and transaction analysis.
@@ -47,6 +41,12 @@ Developed an **investment memo and 5-year bottom-up operating model** assessing 
 Modelled transaction volumes, take rates, revenue, margins and cash burn under **Bear, Base and Bull scenarios**, incorporating future financing rounds and investor dilution. Evaluated potential outcomes using **MOIC and IRR analysis** to connect operating assumptions and valuation scenarios to the investment case.
 
 The final analysis brings together the quantitative model with an assessment of **market size, unit economics, competitive moats, key risks and the overall investment thesis**.
+
+### Local AI Financial Statement & Disclosure Risk Auditor
+
+Local-LLM financial analysis tool for extracting and classifying **financial statement and disclosure risks** from financial PDFs.
+
+The application combines page-aware PDF extraction, structured LLM outputs and Pydantic validation to identify and classify potential red flags, with page-level source references and Excel export.
 
 ## Education
 
