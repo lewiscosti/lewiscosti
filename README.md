@@ -1,6 +1,6 @@
 # Lewis Costi
 
-Economics graduate interested in **Corporate Finance, M&A, Credit, Investment Analysis and Strategy**.
+Economics graduate interested in **Credit, Corporate Finance, Investment Analysis, Strategy and M&A**.
 
 I build financial models and analytical tools using **Excel and Python**, with projects spanning portfolio analysis, M&A valuation, credit risk, venture capital, financial statement analysis and applied AI.
 
